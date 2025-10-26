@@ -70,6 +70,9 @@ footer {
     align-items: center;
 }
 
+.input-error {
+   border-color: red !important;
+}
 /* Mengatur tampilan pesan error */
 .error-message {
     color: red;
@@ -77,7 +80,3 @@ footer {
     margin-top: 5px;
 }
 
-.input-error {
-    border-color: red;
-    box-shadow: 0 0 3px rgb(255, 0, 0);
-}
